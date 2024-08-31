@@ -15,7 +15,7 @@
 
 ## Publications
 - **Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility**
-- 25. VDI-Kongress AUTOMATION
+- 25.VDI-Kongress AUTOMATION
 - [Paper Link](https://arxiv.org/abs/2407.08550)
 
 ## Projects
