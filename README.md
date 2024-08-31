@@ -19,12 +19,12 @@
   - [Paper Link](https://arxiv.org/abs/2407.08550)
 
 ## Projects
-### LLMs Based Projects
+### LLM-based Projects
 - **MultiModal-RAG based ResearcherQA Bot:**
   - Gemini-Pro based Language and Vision models used with retrieved extracted pdf data(texts, tables & images)
   - [GitHub Repo w/ Demo Video](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
  
-### Deep learning projects
+### Deep Learning Projects
 
   
 
