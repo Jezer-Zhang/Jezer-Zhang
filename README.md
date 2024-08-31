@@ -13,7 +13,22 @@
 ## Profiles
 [![Linkedin]()
 
-## Tech Stack
+## Publications
+- **Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility**
+- 25. VDI-Kongress AUTOMATION
+- [Paper Link](https://arxiv.org/abs/2407.08550)
+
+## Projects
+### LLMs Based Projects
+- **MultiModal-RAG based ResearcherQA Bot:**
+  - Gemini-Pro based Language and Vision models used with retrieved extracted pdf data(texts, tables & images)
+  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
+ 
+### Deep learning projects
+
+  
+
+## Programming Languages
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,cpp&theme=light" />
 </p>
