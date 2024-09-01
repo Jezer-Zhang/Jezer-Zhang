@@ -20,12 +20,14 @@
 
 ## Projects
 ### LLM-based Projects
-- **MultiModal-RAG based ResearcherQA Bot:**
+- **Synthetic training data creation for SFT of LLMs for autonomous production planning and control**
+
+- **Question-Answer based on Financial Reports**
   - Gemini-Pro based Language and Vision models used with retrieved extracted pdf data(texts, tables & images)
-  - [GitHub Repo w/ Demo Video](https://github.com/manthan410/multimodal-RAG-ResearchQA-bot)
+  - [GitHub Repo]()
  
 ### Deep Learning Projects
-
+- **SensorFusion_camera_lidar**
   
 
 ## Programming Languages
