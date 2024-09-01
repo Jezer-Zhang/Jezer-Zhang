@@ -21,14 +21,17 @@
 ## Projects
 ### LLM-based Projects
 - **Synthetic training data creation for SFT of LLMs for autonomous production planning and control**
-
+  - model the autonomous procedures and create a dataset for Supervised Fine-tuning of LLMs
+  - evaluate the performance of different LLMs
+  - [GitHub Repo](https://github.com/Jezer-Zhang/https://github.com/Jezer-Zhang/Synthetic-training-data-creation-for-SFT-of-LLMs-for-autonomous-production-planning-and-control)
 - **Question-Answer based on Financial Reports**
   - Answer questions through embedding and similarity search
   - [GitHub Repo](https://github.com/Jezer-Zhang/Question-Answer-based-on-Financial-Reports)
  
 ### Deep Learning Projects
 - **SensorFusion_camera_lidar**
-  
+  - Try different methods to combine the representations from camera and lidar data
+  - [GitHub Repo](https://github.com/Jezer-Zhang/SensorFusion_camera_lidar)
 
 ## Programming Languages
 <!-- https://github.com/tandpfun/skill-icons -->
