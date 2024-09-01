@@ -11,7 +11,7 @@
 </p>
 
 ## Profiles
-[![Linkedin]()
+[![Linkedin](www.linkedin.com/in/jize-zhang-zjz)
 
 ## Publications
 - **Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility**
