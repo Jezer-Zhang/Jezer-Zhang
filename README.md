@@ -23,8 +23,8 @@
 - **Synthetic training data creation for SFT of LLMs for autonomous production planning and control**
 
 - **Question-Answer based on Financial Reports**
-  - Gemini-Pro based Language and Vision models used with retrieved extracted pdf data(texts, tables & images)
-  - [GitHub Repo]()
+  - Answer questions through embedding and similarity search
+  - [GitHub Repo](https://github.com/Jezer-Zhang/Question-Answer-based-on-Financial-Reports)
  
 ### Deep Learning Projects
 - **SensorFusion_camera_lidar**
