@@ -11,7 +11,7 @@
 </p>
 
 ## Profiles
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/jize-zhang-zjz)](www.linkedin.com/in/jize-zhang-zjz)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-venkataramana-shenoy/)](https://www.linkedin.com/in/manthan-venkataramana-shenoy/)
 
 ## Publications
 - **Incorporating Large Language Models into Production Systems for Enhanced Task Automation and Flexibility**
