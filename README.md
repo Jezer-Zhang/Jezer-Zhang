@@ -29,7 +29,7 @@
   - [GitHub Repo](https://github.com/Jezer-Zhang/Question-Answer-based-on-Financial-Reports)
  
 ### Deep Learning Projects
-- **SensorFusion_camera_lidar**
+- **Sensor Fusion camera_lidar**
   - Try different methods to combine the representations from camera and lidar data
   - [GitHub Repo](https://github.com/Jezer-Zhang/SensorFusion_camera_lidar)
 
