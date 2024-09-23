@@ -23,7 +23,7 @@
 - **Synthetic training data creation for SFT of LLMs for autonomous production planning and control**
   - model the autonomous procedures and create a dataset for Supervised Fine-tuning of LLMs
   - evaluate the performance of different LLMs
-  - [GitHub Repo](https://github.com/Jezer-Zhang/https://github.com/Jezer-Zhang/Synthetic-training-data-creation-for-SFT-of-LLMs-for-autonomous-production-planning-and-control)
+  - [GitHub Repo](https://github.com/Jezer-Zhang/Synthetic-training-data-creation-for-SFT-of-LLMs-for-autonomous-production-planning-and-control)
 - **Question-Answer based on Financial Reports**
   - Answer questions through embedding and similarity search
   - [GitHub Repo](https://github.com/Jezer-Zhang/Question-Answer-based-on-Financial-Reports)
